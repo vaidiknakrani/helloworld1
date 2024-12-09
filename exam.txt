@@ -5,7 +5,7 @@
 3. Which of the following is an example of Open-Source Software? 
 
 4. FOSS stands for: 
-
+final copy
 5. Which of the following licensing models is typically associated with Proprietary 
 Software? 
 
