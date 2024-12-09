@@ -1,0 +1,63 @@
+1. Which of the following is NOT a principle of Open-Source Software (OSS)? 
+ 
+2. Which organization is responsible for launching the GNU Project? 
+
+3. Which of the following is an example of Open-Source Software? 
+
+4. FOSS stands for: 
+
+5. Which of the following licensing models is typically associated with Proprietary 
+Software? 
+
+6.The Free Software Foundation was founded in which year? 
+
+7. Which of the following is NOT true about Public Domain software? 
+ 
+8. Which one of the following is a popular Open-Source Software License? 
+
+9. 
+The term 'FOSS' emphasizes: 
+
+10. What does the term 'BSD' refer to in the context of Open Source? 
+
+Two-Marks Questions 
+1. What is the key difference between Open-Source Software and Proprietary 
+Software? 
+2. Briefly explain the term 'Public Domain' in the context of software. 
+3. What is the significance of the GNU Project in the development of Free Software? 
+4. Explain the term 'Free Software' and how it differs from 'Freeware'. 
+5. What are some common licenses used for Open-Source Software? 
+6. What are the key advantages of using open-source software development methodology compared to 
+traditional closed-source development? 
+7. What are the main differences between copyright and copyleft? 
+Three-Marks Questions 
+1. How does the concept of FOSS (Free and Open-Source Software) challenge the 
+notion that free software means no cost? 
+2. Discuss the history and contributions of the BSD (Berkeley Software Distribution) 
+to the Open-Source movement. 
+3. What is the difference between 'Free Software' and 'Open-Source Software'? 
+Provide examples. 
+4. Explain the relationship between the Free Software Foundation and the GNU 
+Project. 
+5. Describe the advantages of using Open-Source Software in comparison to 
+Proprietary Software. 
+Five-Marks Questions 
+1. Compare and contrast Proprietary Software Licensing and Open-Source Licensing 
+Models, highlighting the pros and cons of each. 
+2. What is the GNU General Public License (GPL), and how does it ensure software freedom? 
+Discuss its implications for derivative works. 
+3. Describe the history of Open-Source software. 
+4. What are Open Standard Principles and explain the key characteristics of Open Standard principles. 
+5. What is a License? How to Create Own License: Write a step-by-step process. 
+6. What is Open-source Methodology explain in Detail. 
+7. Explain the historical development of Free Software, including the role of the Free 
+Software Foundation and the GNU Project. 
+8. Analyze the principles of Open-Source Software and discuss their importance in 
+software development and community collaboration. 
+Write a Short Note: 
+a. 
+Patents 
+b. Zero marginal cost 
+c. 
+Income generation opportunities 
+d. Internationalization
