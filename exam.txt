@@ -3,7 +3,7 @@
 2. Which organization is responsible for launching the GNU Project? 
 
 3. Which of the following is an example of Open-Source Software? 
-
+vaidik nakrani 
 4. FOSS stands for: 
 
 5. Which of the following licensing models is typically associated with Proprietary 
